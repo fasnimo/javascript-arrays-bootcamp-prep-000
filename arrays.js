@@ -32,6 +32,8 @@ function removeElementFromBeginningOfArray(array) {
   array.slice()
   return array
 }
+
+function 
 // function accessElementInArray () {
   
 // }
