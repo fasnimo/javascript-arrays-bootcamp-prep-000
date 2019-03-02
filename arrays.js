@@ -14,9 +14,9 @@ return [element, ...array]
  return  [...array, element]
  }
 
-// function destructivelyAddElementToBeginningOfArray () {
-//   chocolateBars.push("handler")
-// }
+function destructivelyAddElementToEndOfArray () {
+  array.push(element)
+  }
 
 // function accessElementInArray () {
   
